@@ -38,8 +38,8 @@ require_once("../inc/header.inc");
 		Check out two great ways to help: <a href="http://www.eyewire.org" target="_blank">EyeWire.org</a>, & <a href="http://www.openWorm.org" target="_blank">OpenWorm.org</a></p>
         </div>
         <div class="col-md-5">
-          <img class="featurette-image img-responsive"
-        src="../img/square/cocomac.png" title="feel free to deposit" style="width: 400px; height: 400px;">
+          <a href="http://www.EyeWire.org" target="_blank"><img class="featurette-image img-responsive"
+        src="../img/square/neuron.png" title="EyeWire.Org: where citizen scientists help map neurons" style="width: 400px; height: 400px;">
         </div>
       </div>
 
