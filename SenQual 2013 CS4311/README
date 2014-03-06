@@ -1,0 +1,27 @@
+2Awesome
+========
+
+Team 2Awesome Software Engineering II
+
+As part of CS 4311 Software Engineering, this web application
+lets users specify contstraints over different types of weather 
+sensors and alerts the user if sensor data has exceeded said constraints.
+
+This project is a Three-Tiered Archetecture using the PHP/Java Bridge, 
+	web 2.0 for the presentation layer
+	actual Java for the business layer (Tomcat Server)
+	MySQL for the database. 
+
+
+Install Instructions:
+
+	get java running:
+		start up tomcat server
+		upload ./tomcat-Business-Database-Layer/Java_Bridge.war
+		start project
+	get php running:
+		host dir tree: './full working localhost path/Java_Bridge/src/team2awesome/php/'
+
+
+Project manager: Steven Werner
+http://www.StevenWerner.name
